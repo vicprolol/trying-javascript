@@ -15,3 +15,5 @@ rotationForce = 0.0;
 message = 'Hello world';
 
 drawName(message, letterColors);
+
+bounceBubbles();
